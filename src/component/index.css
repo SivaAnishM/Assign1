@@ -1,0 +1,17 @@
+.register{
+ display: flex;
+ flex-direction: column;
+ height: 70vh;
+ align-items: center;
+ justify-content: center;
+}
+.table{
+  position: relative;
+  top: 40vh;
+  left: 20%;
+}
+table, th, td {
+  border: 1px solid;
+  width: 25%;
+  text-align: center;
+}
